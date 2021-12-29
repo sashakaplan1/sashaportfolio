@@ -12,4 +12,4 @@
 * Methodology: find most at risk areas (greater than 25% poverty), one mile buffer around grocery stores, erase one mile buffer from at risk areas, food deserts identfied, spatial join obesity data, compare greater than 30% obesity to potential food desert tracts
 * Results: Food deserts found most commonly in suburban and rural areas, strong realtionship does exist between high obesity rates and food deserts
 
-![](https://user-images.githubusercontent.com/96799772/147701871-1d033554-c4ed-43b5-bbdc-f4fa5d1ba94d.png)
+![](https://user-images.githubusercontent.com/96799772/147702073-a4f80039-7b3c-4688-980b-3f6a98239b91.png)
