@@ -8,6 +8,8 @@ Passionate about GIS, cartography, and data analytics.  These examples were comp
 * Simple linear regressions and multiple regressions measured at the alpha of 0.01
 * Three cluster groups identified: Cluster 1 and Cluster 2 define low risk areas for drug overdose mortalities while Cluster 3 indicates high risk areas for drug overdose moralities
 
+![](https://user-images.githubusercontent.com/96799772/147704113-88cd552f-6952-48b8-8874-f2e216a63c60.png)
+
 # Project 2: Colorado Food Deserts and Obesity
 * Research questions: Which Colorado census tracts are most susceptible to being in a food desert?  How do these food desert locations compare to obesity rates?
 * Data: US Census Bureau - census tract shapefile, American Community Survey - poverty 2016, ESRI - grocery store locations 2014, Colorado Department of Public Health and Environment - obesity rates 2019
