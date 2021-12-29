@@ -1,6 +1,5 @@
 # Sasha Kaplan's Portfolio
-Passionate about GIS, cartography, and data analytics 
-These examples were complied druing my studies at California State University - Long Beach
+Passionate about GIS, cartography, and data analytics.  These examples were complied druing my studies at California State University - Long Beach
 
 # Project 1: The Opioid Epidemic in the American Southwest
 * A multiple regression and clustering analysis of drug overdose mortalities as compared to demographic variables
